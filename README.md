@@ -1,7 +1,7 @@
 Wow, you visited my profile. Miracle!
 
 # Introductions
-Name's Mohamed Abduljawad, or known as xXhtmlProgrammer2021Xx... I mean... Salint, known as Salint. I'm a 15 year old programmer. I come from a small pyramid in the sands of Egypt. 
+Name's Mohamed Abduljawad, or known as xXhtmlProgrammer2021Xx... I mean... Salint, known as Salint. I'm a 16 year old programmer. I come from a small pyramid in the sands of Egypt. 
 
 My birthday is 10th of March, 2005.
 I've been coding since I was 9. 6 years ago!
