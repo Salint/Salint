@@ -15,13 +15,11 @@ You can find my [public PGP key here](https://gist.github.com/Salint/01980f1f18b
 
 # Experience
 
-## Davis Empire Inc. & Davis Empire Gaming.
+## Davis Empire Inc. & Davis Empire Gaming
 ### 2019 - Present
 https://davisempireinc.com
 - Web Development
 - Game Asset Development
-<br />
-<br />
 
 ## The Arab Future
 ### 2021 - Present
