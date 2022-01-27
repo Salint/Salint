@@ -1,22 +1,31 @@
-Wow, you visited my profile. Miracle!
-
 # Introductions
-Name's Mohamed Abduljawad, or known as xXhtmlProgrammer2021Xx... I mean... Salint, known as Salint. I'm a 16 year old programmer. I come from a small pyramid in the sands of Egypt. 
+Greetings! I'm Salint. I'm a 16 year old programmer and music producer. I come from a small pyramid in the sands of Egypt. I've been coding since I was 9.
 
-My birthday is 10th of March, 2005.
-I've been coding since I was 9. 7 years ago!
+I love Web Development, I specialise in ReactJS and Firebase.
 
-I really like Minecraft.
+
+From now on, everything I do on the Internet will be signed with the following key fingerprint:-
+```
+3E29518DD0F72ACD0C032746291EFCE0B7A86F93
+```
+
+This includes, but not limited to: commits, E-mails, messages, and files.
+
+You can find my [public PGP key here](https://gist.github.com/Salint/01980f1f18bfe0b0744395a5560ca882).
 
 # Experience
-Well, I ***melt*** in game development. I have a bit of experience with Unity and UnitySharp. I love Web Development, so... HTML(piece of cake), CSS(an even smaller piece of cake), JavaScript(the virgin language with 2 children, don't ask questions), as well as TypeScript and ReactJS! PHP as well, I don't get why people dislike it, the syntax is <3.
 
-Moving on, I have quite some experience in Java and JavaFX. And I am an intermediate in C and C++.
+## Davis Empire Inc. & Davis Empire Gaming.
+### 2019 - Present
+https://davisempireinc.com
+- Web Development
+- Game Asset Development
+<br />
+<br />
 
-# Goals
-- Build a game engine.
-- Make a games company.
-- Make an empire like Microsoft and Google.
+## The Arab Future
+### 2021 - Present
+https://thearabfuture.com
 
-
-I like to dream.
+- Founder
+- Lead Developer
