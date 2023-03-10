@@ -1,5 +1,5 @@
 # Introductions
-Greetings! I'm Salint. I'm a 17-year-old programmer and music producer. I come from a small pyramid in the sands of Egypt. I've been coding since I was 9.
+Greetings! I'm Salint. I'm a 18-year-old programmer and music producer. I come from a small pyramid in the sands of Egypt. I've been coding since I was 9.
 
 I love Web Development, I specialise in ReactJS and Firebase.
 
