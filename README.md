@@ -7,10 +7,3 @@ PGP Fingerprint:
 3E29518DD0F72ACD0C032746291EFCE0B7A86F93
 ```
 You can find my public PGP key [here](https://gist.github.com/Salint/01980f1f18bfe0b0744395a5560ca882).
-
-# Experience
-
-## Davis Empire Inc. & Davis Empire Gaming
-### 2019 - Present
-- Web Development
-- Game Development
