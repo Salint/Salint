@@ -1,6 +1,6 @@
 # Introductions
 Greetings! I'm Salint. I'm a 20-year-old programmer and music producer. I come from a small pyramid in the sands of Egypt. I've been coding since I was 9.
-I'm a software engineer @ WannaCall
+I'm a software engineer @ WannaVerse
 
 PGP Fingerprint:
 ```
